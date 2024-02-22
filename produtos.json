@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nome": "Xbox Series S", "marca": "Microsoft", "categoria": "Aparelhos Eletrônicos", "preço": "2.500,00", "quantidade em estoque": 100},
+    {"id": 2, "nome": "PC Desktop", "marca": "Samsung", "categoria": "Aparelhos Eletrônicos", "preço": "3.000,00", "quantidade em estoque": 100},
+    {"id": 3, "nome": "Projetor", "marca": "HP", "categoria": "Aparelhos Eletrônicos", "preço": "1.500,00", "quantidade em estoque": 100}
+]
